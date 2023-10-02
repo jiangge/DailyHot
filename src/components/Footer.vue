@@ -5,7 +5,7 @@
       <n-text
         class="author"
         :depth="3"
-        v-html="原网站，本站只保留链接信息"
+        v-html="原网站所有-本站只保留链接信息"
         @click="jumpLink('https://www.moyuhuashui.com/')"
       />
     </div>
