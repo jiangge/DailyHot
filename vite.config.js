@@ -49,7 +49,7 @@ export default defineConfig({
         ],
       },
       manifest: {
-        name: "今日热榜",
+        name: "摸鱼划水官网",
         short_name: "DailyHot",
         description: "汇聚全网热点，热门尽览无余",
         display: "standalone",
