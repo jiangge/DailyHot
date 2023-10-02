@@ -44,7 +44,7 @@ footer {
     margin-bottom: 4px;
     .description {
       &::after {
-        content: "@ Copyright By 原网站所有，本站只保存链接信息，若侵权请联系hi@moyuhuashui.com";
+        content: "@ Copyright By 原网站所有，本站只保存链接信息，若侵权请联系hi@moyuhuashui.com删除。";
         margin: 0 6px;
       }
     }
