@@ -2,12 +2,7 @@
   <footer>
     <div class="copyright">
       <n-text class="description" v-html="packageJson.description" />
-      <n-text
-        class="author"
-        :depth="3"
-        v-html="原网站所有-本站只保留链接信息"
-        @click="jumpLink('https://www.moyuhuashui.com/')"
-      />
+     
     </div>
     <n-text
       v-if="icp"
