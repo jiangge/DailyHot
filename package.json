@@ -3,7 +3,7 @@
   "description": "摸鱼划水官网",
   "author": "imsyy",
   "github": "https://github.com/imsyy",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
